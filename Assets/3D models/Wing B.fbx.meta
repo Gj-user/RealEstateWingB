@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 3357ac356d4155f42a76e1f314e83022
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balcony_grillsGlass_M
+    second: {fileID: 2100000, guid: df8df65b6f2ef0b4f8ed99d1f711e728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balcony_grills_M
+    second: {fileID: 2100000, guid: 36ac2d4bf71511a4e8fb8d915b724dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_M
+    second: {fileID: 2100000, guid: d44f9cc4c82cfa4488afbddbc905934f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_misc_M
+    second: {fileID: 2100000, guid: 3ad8de3c09251914b9262af9cb0eefc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CommonWIndow_marble_M
+    second: {fileID: 2100000, guid: 25bc5f5d6cdc0ea40af394fab575bccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CommonWindow_glass_1_M
+    second: {fileID: 2100000, guid: 3e6822f09a8b0a14cb7924b2374fce38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CommonWindow_glass_2_M
+    second: {fileID: 2100000, guid: 5f7faad230533c347ac89375ddbce0a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CommonWindow_glass_3_M
+    second: {fileID: 2100000, guid: 98c64d30b5fb60d4eb67288d8e5845e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CommonWindow_metal_M
+    second: {fileID: 2100000, guid: 46f0429fb2f66604389e4c9dfe04c898, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete_balcnoy_M
+    second: {fileID: 2100000, guid: e0068e3516a50f948a0061311ce39190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CorridorFloor_M
+    second: {fileID: 2100000, guid: 9de5306ecfb89d34cbbd33062634cc88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corridor_Floor_M
+    second: {fileID: 2100000, guid: e5dac8f989465554b9ced17678add518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corridor_defaultWall_M
+    second: {fileID: 2100000, guid: 0bf22c0e9d358194f953a3711e0a71b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corridor_main_M
+    second: {fileID: 2100000, guid: fb975589b732c314db7b2e277439fcef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corridor_misc_M
+    second: {fileID: 2100000, guid: 77255a8ab772faa479e921d6345cc65e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorFrame_M
+    second: {fileID: 2100000, guid: 49599c698ab5ed445ac9c6ab2d1f75c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorMain_M
+    second: {fileID: 2100000, guid: 666f70331fe16224895b4d5d8593d6b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorMain_metal_M
+    second: {fileID: 2100000, guid: 063101e2e33eb5f488f5be8219225031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_1_DryBalcony_M
+    second: {fileID: 2100000, guid: 864e1c5ace0359a4d881ee70c67a9c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_1_Floor_M
+    second: {fileID: 2100000, guid: 259a8ef37aed0504d9ea1add12572c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_1_SitoutArea_M
+    second: {fileID: 2100000, guid: fd7dffdedd6849549acbfc9cdd04b621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_1_ToiletFloor_M
+    second: {fileID: 2100000, guid: 81c2d3262c9406f4ca534625cfdb2011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_1_ToiletWall_M
+    second: {fileID: 2100000, guid: 847ff32f6c5db7041a2d8996254963e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_1_inner_M
+    second: {fileID: 2100000, guid: bbd5a476752f7804eb4943ffcc4b9b9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_1_misc_M
+    second: {fileID: 2100000, guid: 500f418255648a3409f03854dde7193c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_1_outer_M
+    second: {fileID: 2100000, guid: c13c8c62450a54248a394022f2f9f035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_2_DryBalcony_M
+    second: {fileID: 2100000, guid: d07cee964baaccf4da158ac86c4fd4c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_2_Floor_M
+    second: {fileID: 2100000, guid: 0dc5b685149a696498078ecfca985104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_2_SitoutArea_M
+    second: {fileID: 2100000, guid: 1e36b0ed7e10cdd489cbd62c18bde741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_2_ToiletFloor_M
+    second: {fileID: 2100000, guid: a82520f7a4658af45be572b8eba4ca09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_2_ToiletWall_M
+    second: {fileID: 2100000, guid: 0b154bb3f8755b040bf13eb1c1be00d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_2_inner_M
+    second: {fileID: 2100000, guid: 09541bf37c292f94081fa1d6eee77214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_2_misc_M
+    second: {fileID: 2100000, guid: 3f1fca6ed75d48a4fa9c0c0236e8b754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_2_outer_M
+    second: {fileID: 2100000, guid: 3a8b06b526c20204db3614958427eabf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_3_DryBalconyFloor_M
+    second: {fileID: 2100000, guid: 1f5053d6ddc77234298e796ec715cfba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_3_Floor_M
+    second: {fileID: 2100000, guid: 55d05d831cdc4694297b17c56ede2008, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_3_SitoutArea_M
+    second: {fileID: 2100000, guid: 67e0e3c6e51272a4f9e68d98ac40371c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_3_ToiletFloor_M
+    second: {fileID: 2100000, guid: c238cbd9699518a4da53833786019b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_3_ToiletWall_M
+    second: {fileID: 2100000, guid: 8bbefa5976797784e9c21107db5fe132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_3_inner_M
+    second: {fileID: 2100000, guid: 66cb309349e73e947b1d3397e7c76ad9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_3_misc_M
+    second: {fileID: 2100000, guid: f7da4b58e890f8a43aed2d1602644888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_3_outer_M
+    second: {fileID: 2100000, guid: 6d2935a21b2bb044ea4faa551541953e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_4_DryBalcony_M
+    second: {fileID: 2100000, guid: d420160bc0d535243858c64307b12e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_4_Floor_M
+    second: {fileID: 2100000, guid: c2d90a48149eb0f4db47fc26f3486983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_4_SitoutArea_M
+    second: {fileID: 2100000, guid: c074eb8066ac3264dba0ce026f248293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_4_ToiletFloor_M
+    second: {fileID: 2100000, guid: 3068637794ada7a48b4b2128c2f06c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_4_ToiletWall_M
+    second: {fileID: 2100000, guid: 762160f0284a9714693022eb49f1e5ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_4_inner_M
+    second: {fileID: 2100000, guid: 2e644769e3434df489034df31b164671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_4_misc_M
+    second: {fileID: 2100000, guid: 21cec0dd2c453a64e8259e8589faed59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_4_outer_M
+    second: {fileID: 2100000, guid: 2b10e7206ea3bff47842a967fd0b28af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_5_DryBalcony_M
+    second: {fileID: 2100000, guid: ce67dd2ba73971a44b429de28b2b0784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_5_Floor_M
+    second: {fileID: 2100000, guid: 53486949457d6a242a9c7c212135a38e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_5_SitoutArea_M
+    second: {fileID: 2100000, guid: 435842bf3ed66b24ba7e96d2fd3eae37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_5_ToiletFloor_M
+    second: {fileID: 2100000, guid: ede2e091c40714244ab9ff62d7472c2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_5_ToiletWall_M1
+    second: {fileID: 2100000, guid: de729b9a692aa334fa1538a90e4740d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_5_inner_M
+    second: {fileID: 2100000, guid: 99fe1b9039752c14cbfb36ff9d9e2898, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_5_misc_M
+    second: {fileID: 2100000, guid: 7b7d1374e9b85d54e8b51d10aa4be976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_5_outer_M
+    second: {fileID: 2100000, guid: 784d5413b85c762498146706ae989282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_NoAccess_M
+    second: {fileID: 2100000, guid: ca1e050cc8f37cb479a6cac9a3ef9c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NOENTRY_plates_M
+    second: {fileID: 2100000, guid: 1cfe55ed31b647c42b10ce2007676ade, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SlidingDoor_glass_M
+    second: {fileID: 2100000, guid: f841cfe189c3621459994d3bf92559fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SlidingDoor_metal_M
+    second: {fileID: 2100000, guid: 2a827777c59edda4f99e6f7540f6a684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmallWindow_glass_1_M
+    second: {fileID: 2100000, guid: a46f1f466cf30a24b87d9e331417eb89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmallWindow_glass_2_M
+    second: {fileID: 2100000, guid: 8358fa6a7b030bb4a8fd52c0ea90bb7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmallWindow_glass_3_M
+    second: {fileID: 2100000, guid: f89accc8eb8b87d4689da371f78bb6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmallWindow_marble_M
+    second: {fileID: 2100000, guid: fc7e0a9e42f9a7d49a58cb128e64add7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmallWindow_metal_M
+    second: {fileID: 2100000, guid: 0541e71b7fabe7a4d9e65fc87f59fee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThreeSLWindow_glass_1_M
+    second: {fileID: 2100000, guid: 3fd0d98eb5aeda3488c8bbdda0ed4202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThreeSLWindow_glass_2_M
+    second: {fileID: 2100000, guid: 22eb771f9e79b8343b32cde34926b932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThreeSLWindow_glass_3_M
+    second: {fileID: 2100000, guid: ab73d9f9040592045ac60380cd60add7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThreeSLWindow_marble_M
+    second: {fileID: 2100000, guid: 16336da91ea5f2440979a8b7e08dc5de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ThreeSLWindow_metal_M
+    second: {fileID: 2100000, guid: 4f340bedf70c9c04abd488bbf6b11acf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToiletDoorFrame_M
+    second: {fileID: 2100000, guid: b0a54c312c779cf4caa3dff01062f406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToiletDoorMetal_M
+    second: {fileID: 2100000, guid: 31958a372528efc41b8a845254911f45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToiletDoor_M
+    second: {fileID: 2100000, guid: a565571ad3f77e94bba42b13569cb7a5, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
