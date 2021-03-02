@@ -7,23 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Balcony_grillsGlass_M
-    second: {fileID: 2100000, guid: df8df65b6f2ef0b4f8ed99d1f711e728, type: 2}
+      name: BalconyGlass_M
+    second: {fileID: 2100000, guid: 3694fe695c99364429ad965bca359917, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Balcony_grills_M
-    second: {fileID: 2100000, guid: 36ac2d4bf71511a4e8fb8d915b724dea, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Ceiling_M
-    second: {fileID: 2100000, guid: d44f9cc4c82cfa4488afbddbc905934f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Ceiling_misc_M
-    second: {fileID: 2100000, guid: 3ad8de3c09251914b9262af9cb0eefc8, type: 2}
+      name: BalconyGrill_M
+    second: {fileID: 2100000, guid: 1db1a2379542ffa42869e64c40935db6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -127,6 +117,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Flat_1_kitchen_M
+    second: {fileID: 2100000, guid: 7374dc0c6f13ed741958a4da8ff2ac8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Flat_1_misc_M
     second: {fileID: 2100000, guid: 500f418255648a3409f03854dde7193c, type: 2}
   - first:
@@ -144,6 +139,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Flat_2_Floor_M
     second: {fileID: 2100000, guid: 0dc5b685149a696498078ecfca985104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_2_Kitchen_M
+    second: {fileID: 2100000, guid: 2ff5f95a8c5e33b44b56640dadd62094, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -184,6 +184,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Flat_3_Floor_M
     second: {fileID: 2100000, guid: 55d05d831cdc4694297b17c56ede2008, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_3_Kitchen_M
+    second: {fileID: 2100000, guid: 07f41e37acbdd9543bd546cdcdec1a32, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -247,6 +252,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Flat_4_kitchen_M
+    second: {fileID: 2100000, guid: 9ae84fc8b6616c64bb0cc87fe8d141c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Flat_4_misc_M
     second: {fileID: 2100000, guid: 21cec0dd2c453a64e8259e8589faed59, type: 2}
   - first:
@@ -277,13 +287,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Flat_5_ToiletWall_M1
-    second: {fileID: 2100000, guid: de729b9a692aa334fa1538a90e4740d0, type: 2}
+      name: Flat_5_ToiletWall_M
+    second: {fileID: 2100000, guid: 4a31dbb444a84014dbe748345380b455, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Flat_5_inner_M
     second: {fileID: 2100000, guid: 99fe1b9039752c14cbfb36ff9d9e2898, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_5_kitchen_M
+    second: {fileID: 2100000, guid: f01c55093f0f1e546a7ae36988ced26c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -304,6 +319,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: NOENTRY_plates_M
     second: {fileID: 2100000, guid: 1cfe55ed31b647c42b10ce2007676ade, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NewCeilingMisc_M
+    second: {fileID: 2100000, guid: 9285e38498fcecb4bb30dd7436c6258f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NewCeiling_M
+    second: {fileID: 2100000, guid: ec55318e23d970b4280b3da06f3e5f03, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -379,6 +404,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: ToiletDoor_M
     second: {fileID: 2100000, guid: a565571ad3f77e94bba42b13569cb7a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallSkirting_M
+    second: {fileID: 2100000, guid: 1d0d8aa0856091549972e2b6f6e5286b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 0923fdc2b5cacb9428f4b4c93bc4dce6, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
